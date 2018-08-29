@@ -1,1 +1,1 @@
-python disco-raven.py
+worker: python disco-raven.py
