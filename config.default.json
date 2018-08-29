@@ -1,0 +1,11 @@
+{
+  "token": "NDgxMjQxNTUxMjkzNjQ0ODIx.DmhTsA.JapwB3wlZHhRkiU1zOehohNzysQ",
+  "sentry_dsn": "[YOUR_SENTRY_DSN]",
+  "sentry_environment": "production",
+  "bot": {
+    "commands_require_mention": false,
+    "plugins": [
+      "plugins.vocal_crews"
+    ]
+  }
+}

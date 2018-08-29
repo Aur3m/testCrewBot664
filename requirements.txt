@@ -1,0 +1,15 @@
+git+https://github.com/Rapptz/discord.py@rewrite
+lxml
+mtranslate
+colorthief
+pyparsing
+sympy
+psutil
+emoji
+wikipedia
+crasync
+cr-py
+urban-async
+safygiphy
+
+-e git+https://github.com/kyriog/disco.git@fix-100-voice_states-checks-user_id#egg=disco-py

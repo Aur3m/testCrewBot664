@@ -1,0 +1,26 @@
+{
+  "enabled": true,
+  "log_channel": 0,
+  "new_crew_name": "Créer un équipage",
+  "crew_formatter": "Équipage {}",
+  "crew_size": 4,
+  "alert_allowed_channels": [],
+  "alert_message_custom": "{creator_tag} invites you to join eir crew: {msg} {link}",
+  "alert_message_standard": "{creator_tag} invites you to join eir crew! {link}",
+  "alert_invite_max_age": 3600,
+  "crew_names": [
+    "Test",
+    "Indigo",
+    "Ruby",
+    "Souls",
+    "Gold",
+    "Shark",
+    "Skeleton"
+  ],
+  "categories": {
+    "447178425728237579": {
+      "override": "You can replace here any default setting, for example:",
+      "crew_size": 5
+    }
+  }
+}
