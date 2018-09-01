@@ -13,4 +13,4 @@ urban-async
 safygiphy
 
 -e git+https://github.com/kyriog/disco.git@fix-100-voice_states-checks-user_id#egg=disco-py
-git+https://github.com/leostat/rtfm.py@master
+git+https://github.com/leostat/rtfm@master
